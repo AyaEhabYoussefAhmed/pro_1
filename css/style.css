@@ -15,8 +15,7 @@ body {
     height: 55px;
     position: fixed;
     top: 0;
-    
-    background-color: rgba(255, 0, 0, 0); 
+    background-color: #cc7591 ;
     z-index: 999;
 }
 .header_icon{
